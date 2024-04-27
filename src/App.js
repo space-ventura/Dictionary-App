@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
       </header>
       <main>
-        <Dictionary/>
+        <Dictionary defaultKeyword="Genocide"/>
       </main>
       <footer className="app-footer"><small>This project was coded by Adele McKenna and is open-sourced on Github</small></footer>
       </div>
